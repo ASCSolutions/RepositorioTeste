@@ -7,10 +7,14 @@ namespace TesteWeb
 {
     public class Teste
     {
+<<<<<<< HEAD
 
         private void Soma(int valor1, int valor2)
         {
 
         }
+=======
+        public int index;
+>>>>>>> origin/master
     }
 }
