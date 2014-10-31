@@ -7,5 +7,6 @@ namespace TesteWeb
 {
     public class Teste
     {
+        public int index;
     }
 }
