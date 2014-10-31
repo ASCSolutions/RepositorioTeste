@@ -7,5 +7,10 @@ namespace TesteWeb
 {
     public class Teste
     {
+
+        private void Soma(int valor1, int valor2)
+        {
+
+        }
     }
 }
